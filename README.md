@@ -11,5 +11,5 @@
 
 
 借鉴学习：
-    https://github.com/defnngj/pyrequest
-    https://github.com/defnngj/guest
+* https://github.com/defnngj/pyrequest
+* https://github.com/defnngj/guest
